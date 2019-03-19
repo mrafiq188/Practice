@@ -30,6 +30,10 @@ public class MyLike {
 			System.out.println("demo2");
 			System.out.println("demo3");
 
+			System.out.println("demo4");
+			System.out.println("demo5");
+			System.out.println("demo6");
+
 
 
 
