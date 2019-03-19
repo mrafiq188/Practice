@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2115ca-07b7-4ac9-94aa-d7578ec55254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MyLike/MyLike.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MyLike/MyLike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MyLike/Office.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MyLike/Office.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MyLike/RunMyLikes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MyLike/RunMyLikes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyLike/MyLike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyLike/MyLike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyLike/RunMyLikes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyLike/RunMyLikes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyLike/MyLike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="303">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -98,7 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553019381767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553020606168" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -201,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyLike/MyLike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="303">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
         </state>
       </provider>
     </entry>

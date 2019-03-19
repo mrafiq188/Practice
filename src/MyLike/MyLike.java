@@ -23,9 +23,17 @@ public class MyLike {
 		public void shoes() {
 			System.out.println("MY Favorite shoes are Nikies.");
 		}
-		public void book(){ System.out.println("Today I am reading the Java core textbook.");
-		
-		Office myOffice = new Office();
+		public void book (){ System.out.println("Today I am reading the Java core textbook.");
+
+
+			System.out.println("demo1");
+			System.out.println("demo2");
+			System.out.println("demo3");
+
+
+
+
+			Office myOffice = new Office();
 		myOffice.displayOfficeNumber();
 		
 		myOffice.displayOfficeName();
